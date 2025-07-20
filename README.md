@@ -1,4 +1,4 @@
-# scAgent
+# scAgent_v.1.0
 
 AI agent for identifying and cleaning sc-RNA data suitable for sc-eQTL analysis.
 
