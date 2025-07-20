@@ -32,12 +32,7 @@ pip install -e .
 
 The system uses a local Qwen3-235B-A22B model and connects to a PostgreSQL database.
 
-Database configuration:
-- Host: 10.28.1.24
-- Port: 5432
-- User: yanglab
-- Password: labyang
-- Timeout: 30s
+Database configuration
 
 ## Usage
 
